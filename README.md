@@ -35,7 +35,7 @@ It allows users to ask questions, retrieves answers from a database if available
 ### New Question Response
 <img width="1344" height="580" alt="Screenshot 2026-05-21 140658" src="https://github.com/user-attachments/assets/ae47754d-929b-4a98-9c42-2b67a6c010cb" />
 
-### Response on postman
+### Response on Postman
 <img width="1024" height="710" alt="Screenshot 2026-05-21 141129" src="https://github.com/user-attachments/assets/bd939de7-b050-4376-9bbc-cd8306a6443b" />
 
 
