@@ -22,10 +22,12 @@ It allows users to ask questions, retrieves answers from a database if available
 ### 📸 Screenshots
 
 ### Chatbot.jsp page 
-<img width="1348" height="595" alt="Screenshot 2026-05-21 140014" src="https://github.com/user-attachments/assets/8ab37ba2-921f-4b2c-b94f-a6e01f81f85e" />
+<img width="848" height="595" alt="Screenshot 2026-05-21 140014" src="https://github.com/user-attachments/assets/03d1bffa-ec98-4b6e-911d-6d925c03e5f9" />
+
 
 ### ChatResponse.jsp page
-<img width="1335" height="488" alt="Screenshot 2026-05-21 140032" src="https://github.com/user-attachments/assets/3c3631d2-97d1-46a6-9cf5-367d1ed6843e" />
+<img width="1335" height="381" alt="Screenshot 2026-05-21 140032" src="https://github.com/user-attachments/assets/ea003821-a6e9-4d3c-87be-b634e15eb7ef" />
+
 
 ### Database 
 <img width="1350" height="416" alt="Screenshot 2026-05-21 144835" src="https://github.com/user-attachments/assets/cb8a90d2-7b07-402e-9f66-e3f198448433" />
